@@ -18,6 +18,7 @@ A collaborative React-based e-commerce project. This app allows users to browse 
 ⚙️ **Axios** — For API requests
 
 📷 Screenshots
+
 ![image](https://github.com/user-attachments/assets/2c742f88-76e7-4059-bb91-f95e8924728d)
 
 ![image](https://github.com/user-attachments/assets/5f08e94d-0514-4dc6-b5b3-b3bd67afd384)
@@ -27,6 +28,7 @@ A collaborative React-based e-commerce project. This app allows users to browse 
 ![image](https://github.com/user-attachments/assets/309ddc47-5fa5-46ee-8cb1-9f5b118b250f)
 
 **🧑‍💻 Built With**
+
 React
 Material UI
 Axios
@@ -34,6 +36,7 @@ React Router
 FakeStoreAPI
 
 **⚙️ Installation & Setup**
+
 Clone the repository
 
 bash
