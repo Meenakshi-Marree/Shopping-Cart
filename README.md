@@ -2,6 +2,7 @@
 A collaborative React-based e-commerce project. This app allows users to browse products, add them to a cart, and manage quantities with persistent cart state using localStorage.
 
 🚀 **Features**
+
 📦 **Product Listing** — Fetches dynamic product data from FakeStoreAPI
 
 🛒 **Cart Functionality** — Add, update, and persist cart items
