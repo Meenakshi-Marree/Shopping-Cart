@@ -62,3 +62,7 @@ Copy
 Edit
 npm run dev
 App will run at http://localhost:5173/ (or whatever Vite shows in your terminal)
+
+**👥 Authors**
+S LakshmiDurga
+Meenakshi
