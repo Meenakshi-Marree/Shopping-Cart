@@ -30,9 +30,13 @@ A collaborative React-based e-commerce project. This app allows users to browse 
 **🧑‍💻 Built With**
 
 React
+
 Material UI
+
 Axios
+
 React Router
+
 FakeStoreAPI
 
 **⚙️ Installation & Setup**
@@ -40,27 +44,43 @@ FakeStoreAPI
 Clone the repository
 
 bash
+
 Copy
+
 Edit
+
 git clone https://github.com/your-username/react-shopping-cart.git
+
 Navigate to the project folder
 
 bash
+
 Copy
+
 Edit
+
 cd react-shopping-cart
+
 Install dependencies
 
 bash
+
 Copy
+
 Edit
+
 npm install
+
 Start the development server
 
 bash
+
 Copy
+
 Edit
+
 npm run dev
+
 App will run at http://localhost:5173/ (or whatever Vite shows in your terminal)
 
 **👥 Authors**
