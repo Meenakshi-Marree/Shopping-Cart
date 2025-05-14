@@ -1,0 +1,28 @@
+import './App.css'
+import {Routes,Route} from 'react-router';
+import AllProducts from './pages/AllProducts';
+import Cart from './pages/Cart';
+import Register from './pages/Register';
+import Login from './pages/Login';
+import Layout from './components/Layout/Layout';
+import ShowProduct from './pages/ShowProduct';
+
+function App() {
+  
+
+  return (
+    <Layout>   
+      <Routes>
+        <Route path='/' element={ <AllProducts/>}/>
+        <Route path='/login' element={ <Login/>}/>
+        <Route path='/cart' element={ <Cart/>}/>
+        <Route path='/register' element={ <Register/>}/>
+        <Route path='/products/:productId' element={ <ShowProduct/>}/>
+      </Routes>
+  
+    </Layout>
+    
+  )
+}
+
+export default App
