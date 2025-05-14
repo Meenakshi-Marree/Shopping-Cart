@@ -1,12 +1,57 @@
-# React + Vite
+🛍 **React Shopping Cart App**
+A collaborative React-based e-commerce project built by S Lakshmi Durga and [Your Name]. This app allows users to browse products, add them to a cart, and manage quantities with persistent cart state using localStorage.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Features**
+📦 **Product Listing** — Fetches dynamic product data from FakeStoreAPI
 
-Currently, two official plugins are available:
+🛒 **Cart Functionality** — Add, update, and persist cart items
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💾 **Persistent State** — Uses localStorage to save the cart
 
-## Expanding the ESLint configuration
+💡 **React Context API** — Manages global state without prop drilling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌐 **React Router** — For seamless navigation between pages
+
+🎨 **Material UI** — Clean and responsive user interface
+
+⚙️ **Axios** — For API requests
+
+📷 Screenshots
+![image](https://github.com/user-attachments/assets/2c742f88-76e7-4059-bb91-f95e8924728d)
+![image](https://github.com/user-attachments/assets/5f08e94d-0514-4dc6-b5b3-b3bd67afd384)
+![image](https://github.com/user-attachments/assets/40f5b873-d5e7-4b00-a3e3-66ea57134f1f)
+![image](https://github.com/user-attachments/assets/309ddc47-5fa5-46ee-8cb1-9f5b118b250f)
+
+**🧑‍💻 Built With**
+React
+Material UI
+Axios
+React Router
+FakeStoreAPI
+
+**⚙️ Installation & Setup**
+Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/react-shopping-cart.git
+Navigate to the project folder
+
+bash
+Copy
+Edit
+cd react-shopping-cart
+Install dependencies
+
+bash
+Copy
+Edit
+npm install
+Start the development server
+
+bash
+Copy
+Edit
+npm run dev
+App will run at http://localhost:5173/ (or whatever Vite shows in your terminal)
