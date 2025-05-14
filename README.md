@@ -1,5 +1,5 @@
 🛍 **React Shopping Cart App**
-A collaborative React-based e-commerce project built by S Lakshmi Durga and [Your Name]. This app allows users to browse products, add them to a cart, and manage quantities with persistent cart state using localStorage.
+A collaborative React-based e-commerce project. This app allows users to browse products, add them to a cart, and manage quantities with persistent cart state using localStorage.
 
 🚀 **Features**
 📦 **Product Listing** — Fetches dynamic product data from FakeStoreAPI
